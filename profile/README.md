@@ -1,4 +1,4 @@
-# SURVIV.FUN - a dagerous game!
+# SURVIV.FUN - a dangerous game!
 
 #### Minecraft Survival... Harder Faster Better
 
